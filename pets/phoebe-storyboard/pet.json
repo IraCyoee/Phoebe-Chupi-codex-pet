@@ -1,7 +1,7 @@
 {
   "id": "phoebe-storyboard",
-  "displayName": "菲比·分镜版",
-  "description": "以原稿画风呈现的菲比分镜版：常态眨眼、坐姿悬停与敲键盘工作态，左右拖动沿用原版。",
+  "displayName": "菲比·坐好了",
+  "description": "常态眨眼，悬停时坐着回应，工作时坐着敲电脑；左右拖动时奔跑。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }

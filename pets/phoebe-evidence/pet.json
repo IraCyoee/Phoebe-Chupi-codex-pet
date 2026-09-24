@@ -1,7 +1,7 @@
 {
   "id": "phoebe-evidence",
-  "displayName": "菲比",
-  "description": "菲比沿用原稿的坐姿、朝向与平静神态，陪伴查证、写代码和审阅。",
+  "displayName": "菲比·蹦一下",
+  "description": "平时坐着陪伴，鼠标悬停时起身跳一下，左右拖动时奔跑。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
