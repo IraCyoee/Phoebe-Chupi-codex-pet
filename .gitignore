@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Public repository scope: installable pet packages and minimal documentation.
+# Local skills, references, prompts, generated strips, QA, and previews stay private.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/LICENSE.md
+!/assets/
+!/assets/original-idle.webp
+!/assets/original-hover.webp
+!/assets/original-coding.webp
+!/assets/storyboard-idle.webp
+!/assets/storyboard-hover.webp
+!/assets/storyboard-coding.webp
+!/pets/
+!/pets/*/
+!/pets/*/pet.json
+!/pets/*/spritesheet.webp
