@@ -14,6 +14,7 @@ wheels/
 /*
 !/.gitignore
 !/README.md
+!/README_EN.md
 !/LICENSE
 !/LICENSE.md
 !/assets/
@@ -23,6 +24,7 @@ wheels/
 !/assets/storyboard-idle.webp
 !/assets/storyboard-hover.webp
 !/assets/storyboard-coding.webp
+!/assets/social-preview.png
 !/pets/
 !/pets/*/
 !/pets/*/pet.json
